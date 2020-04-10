@@ -2,3 +2,5 @@
 *.tar.gz
 *.gem
 node_modules
+data
+postgresql

@@ -6,3 +6,5 @@ VERSION
 README.md
 Changelog.md
 Makefile
+data
+postgresql
